@@ -11,3 +11,5 @@ This project is a multi screen Flutter application.
 - Its using Expanded widget with flex to make design responsive.
 - I did it as a requirment part of the complete flutter course by Angeila on Udemy.
 ![Screenshot](bmi.png)
+![Screenshot](bmi1.png)
+
